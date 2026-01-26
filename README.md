@@ -38,7 +38,7 @@ My goal is to contribute to **AI-driven projects** that create meaningful impact
 
 ### 🛠️ Languages & Tools
 - **Languages:**  Java, Python, C  
-- **Web:** HTML5, CSS3  
+- **Web:** HTML5, CSS3, JavaScript 
 - **Database:** MySQL, SQLite, Oracle-SQL, MSSQL  
 - **Design:** Figma
 
