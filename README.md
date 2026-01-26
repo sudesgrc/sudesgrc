@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**sudesgrc/sudesgrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### 👩‍💻 Sude Sığırcı  
+**Software Engineering Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Sude, a 21-year-old Software Engineering student at **Konya Technical University**.  
+I am highly interested in **Artificial Intelligence, Data Science, and software development**. I enjoy researching, learning new technologies, and applying theoretical knowledge to real-world problems.
+
+I believe that continuous learning, collaboration, and hands-on experience are the keys to success in software engineering.  
+My goal is to contribute to **AI-driven projects** that create meaningful impact in everyday life 🤖🚀
+
+---
+
+### 🤖 Interests & Focus Areas
+- Artificial Intelligence  
+- Data Science  
+- Machine Learning (beginner level)  
+- Software Development
+- Web Development
+
+---
+
+### 🔭 Currently Working On
+- Exploring AI-based solutions
+
+### 🌱 Currently Learning
+- Python for Data Science & AI  
+
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sude-s%C4%B1%C4%9F%C4%B1rc%C4%B1-a5a177293/)
+
+---
+
+### 🛠️ Languages & Tools
+- **Languages:**  Java, Python, C  
+- **Web:** HTML5, CSS3  
+- **Database:** MySQL, SQLite, Oracle-SQL, MSSQL  
+- **Design:** Figma
+
